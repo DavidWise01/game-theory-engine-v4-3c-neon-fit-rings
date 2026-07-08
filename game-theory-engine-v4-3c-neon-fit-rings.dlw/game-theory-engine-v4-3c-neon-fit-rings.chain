@@ -4,6 +4,6 @@ slug  : game-theory-engine-v4-3c-neon-fit-rings
 seal  : e64fe3bf917f2fa0fc8a614b3f3a68be1134742152562d9128f479e0b73debc6
 prev  : 711b3f6aac43bde6bf05af8fe98e48c51aed449eefdfb13bd1d7c0c89d7c1fba
 link  : eb3b02f7d0b56c6fc61ec06db58adb72c51b91dbacf9542e3090e5756828261f
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
